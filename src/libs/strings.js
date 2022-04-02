@@ -23,7 +23,7 @@ export const strings = {
     lowerArena: "The Arena",
 
     // landing copy, this is what is visible on the first page.
-    firstLanding: `Learn to code & become a better person socially, with friends and mentors in our open-source community to keep you accountable.`,
+    firstLanding: `Learn to code with mentors and friends in our open source community.`,
     secondLanding: `Structure, accountability and friendly competition will keep you motivated while you train for a new
 		career & build the habits necessary to achieve great things in life.`,
     thirdLanding: `Our mission is to provide the 20% of software that will give you 80% of the benefits that modern technology gives you.`,
